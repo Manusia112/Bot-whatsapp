@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# RiBot
+BOT WHATSAPP 
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Manusia112/Bot-whatsapp
+> git clone https://github.com/Manusia112/Bot-whatsapp.git
 > cd botst4rz
 > bash install.sh
 > node index.js
